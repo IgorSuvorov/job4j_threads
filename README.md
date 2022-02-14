@@ -1,0 +1,1 @@
+In this part of job4j java study course I will learn concurrency and parallelism to be able to move forward to more advanced java topic, such as servlets. 
